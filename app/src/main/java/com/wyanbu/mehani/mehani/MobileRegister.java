@@ -9,5 +9,6 @@ public class MobileRegister extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mobile_register);
+        setTitle("ghfghjj");
     }
 }
