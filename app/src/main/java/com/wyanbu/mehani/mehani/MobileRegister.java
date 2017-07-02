@@ -10,6 +10,6 @@ public class MobileRegister extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mobile_register);
         setTitle("ghfghjj");
-        //gfg
+        //gfgkjytyhf
     }
 }
